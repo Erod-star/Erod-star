@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Edson Rodriguez</h1>
+<h1 align="center">Hi 👋, I'm Erodstar</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
 
 
