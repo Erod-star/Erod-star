@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **erodstardev@gmail.com**
 
-- 👨‍💻 Here is my personal portfolio [https://erodstardev-portfolio.vercel.app/](https://erodstardev-portfolio.vercel.app/)
+- 👨‍💻 Here is my [personal portfolio](https://portfolio-erodstar.vercel.app)
 
 - 💬 Ask me about **anything, I'll be happy to help!**
 
